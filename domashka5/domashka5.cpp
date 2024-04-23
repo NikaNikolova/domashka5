@@ -18,7 +18,7 @@ int main()
     m.SetLaugh("ХАХАХАХА!");
     m.SetEnergy(100);//%
     m.SetAge(18);//ðîê³â
-    m.SetGrowth(170.2);//ñì
+    m.SetGrowth(157.6);//ñì
     m.SetHairColor("Русый");
     m.SetGender("девушка");
     m.sits = false;

@@ -14,25 +14,25 @@ int main()
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
     Human m;
-    m.SetName("Ангеліна");
-    m.SetLaugh("ХА-ХА-ХА!");
-    m.SetEnergy(90);//%
+    m.SetName("Николь");
+    m.SetLaugh("ХАХАХАХА!");
+    m.SetEnergy(100);//%
     m.SetAge(18);//ðîê³â
     m.SetGrowth(170.2);//ñì
-    m.SetHairColor("русий³");
-    m.SetGender("жінка");
+    m.SetHairColor("Русый");
+    m.SetGender("девушка");
     m.sits = false;
-    m.SetHungry(30);
+    m.SetHungry(25);
 
     MobilePhone mb;
 
     Raccoon r;
-    r.noize = "ГРРР!";
-    r.SetNick("Степан");
-    r.SetWeight(5.6); //kg
-    r.age = 2;
+    r.noize = "РРР!";
+    r.SetNick("Лео");
+    r.SetWeight(3.5); //kg
+    r.age = 1;
     r.SetEnergy(100);
-    r.SetHungry(70);
+    r.SetHungry(100);
 
     Room room;
     room.room_closed = "кімната замкнута...";
